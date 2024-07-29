@@ -1,3 +1,3 @@
 ## Hi there 👋
-welcome, 
+welcome
 my name is steph.lisboa
